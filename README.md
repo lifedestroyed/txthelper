@@ -69,3 +69,6 @@ You guessed 3 numbers correctly!
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+- This one Readme.md it was created during the update of Text Helper v3.3 (then it was called Text Assistant.)
