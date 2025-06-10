@@ -371,7 +371,7 @@ def lottery():
 
 def main():
     print("=" * 50)
-    print("🌟 Text Assistant v2.0")
+    print("🌟 Text Assistant v6.2")
     print("Created by life destroyed. https://github.com/lifedestroyed/txthelper/")
     print("=" * 50)
 
