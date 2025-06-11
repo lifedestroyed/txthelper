@@ -66,9 +66,14 @@ Pick 5 numbers from 1 to 50: 3 7 14 21 35
 Winning numbers: 7 14 21 28 35  
 You guessed 3 numbers correctly!
 
-## License
+## 📜 License 
+This project is licensed under the **LIFE DESTROYED LICENSE**.  
+**Unauthorized use is PROHIBITED** unless explicit permission is granted by:  
+- `life destroyed`  
+- `Fried Project`  
+- `SGTR Team`  
+- `ld.team`  
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
+[View full license text](LICENSE)
 
 - This one Readme.md it was created during the update of Text Helper v3.3 (then it was called Text Assistant.)
